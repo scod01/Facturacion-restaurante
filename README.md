@@ -15,7 +15,14 @@ Este proyecto es una aplicación de escritorio construida con Python y Tkinter. 
 
 ## 🖼️ Vista previa
 
-(Agrega una o más capturas aquí si quieres)
+### 🧾 Panel Principal
+![Panel Principal](assets/captura1.png)
+
+### 📊 Cálculo de Costes
+![Cálculo de Costes](assets/captura2.png)
+
+### 🧾 Recibo generado
+![Recibo generado](assets/captura3.png)
 
 ## 🔧 Requisitos
 
